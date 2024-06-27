@@ -159,7 +159,6 @@ h3 {
     grid-template-areas:
       "quote-1 quote-1 quote-2 quote-3"
       "quote-4 quote-5 quote-5 quote-3";
-    grid-template-rows: auto;
   }
   .quote-1 {
     grid-area: quote-1;
